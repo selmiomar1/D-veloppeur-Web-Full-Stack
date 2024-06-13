@@ -1,0 +1,10 @@
+1.What is web development, and why is it essential in the context of the internet?
+-the way to creating ,buliding and servicing web. 
+2.Have you heard of HTML? If yes, what does HTML stand for, and what is its primary purpose in web development?
+-yes, html stand for Hyper Text Markup Language , and is a tag Language is primary for a web site because it is creating a text ,button and al content and it is the structure for the page. 
+3.Are you familiar with CSS? If yes, briefly explain what CSS is used for in web development.
+-yes, css stands for Cascading Style Sheets, css is the presentation for web css define styles for your web pages css is the  stylesheet language.
+4.Have you heard of JavaScript? If yes, what is JavaScript, and why is it crucial for building interactive websites?
+-JavaScript is programming language , is a scripting that allows you to implement complex features on web pages  It is the mind in web 
+5.Are you familiar with React and Node.js? If yes, provide a brief description of what React and Node.js are commonly used for in web development.
+-yes, nobe js is a language use for programing a server and it use for the backend development , React a JavaScript library developed by Facebook which, among other things, was used to build Instagram.com and it use html , css , jsx ,jsx is a new version for js 
